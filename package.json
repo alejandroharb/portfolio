@@ -1,0 +1,22 @@
+{
+  "name": "portolio",
+  "version": "1.0.0",
+  "description": "personal portfolio of alejandro harb",
+  "main": "server.js",
+  "repository": "git@github.com:alejandroharb/portfolio.git",
+  "author": "Alejandro Harb <alejandroharb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.2.1"
+  }
+}
